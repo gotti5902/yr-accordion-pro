@@ -41,7 +41,11 @@ Accordion Pro integrates natively into the YOOtheme Pro Builder interface. All s
 
 ## Screenshots
 
-> [Uploading yr-accordion-pro-README.md…]()
+> 
+
+
+
+
 
 
 
