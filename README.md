@@ -39,15 +39,11 @@ Accordion Pro integrates natively into the YOOtheme Pro Builder interface. All s
 
 ---
 
-## Screenshots
+## Demo
 
-> 
+[![Accordion Pro Demo](https://img.youtube.com/vi/UW_DZ2iyDUk/maxresdefault.jpg)](https://youtu.be/UW_DZ2iyDUk)
 
-
-
-
-
-
+▶️ [Watch demo on YouTube](https://youtu.be/UW_DZ2iyDUk)
 
 ---
 
